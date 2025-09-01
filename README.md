@@ -62,5 +62,3 @@ Through this project, I explored:
    - pip install -r requirements.txt
 3. Run the Jupyter Notebook 
    ```bash
-   git clone https://github.com/your-username/gym-tracking-knn.git
-   cd gym-tracking-knn
