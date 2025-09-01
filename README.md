@@ -61,4 +61,4 @@ Through this project, I explored:
 2. Install dependencies:
    - pip install -r requirements.txt
 3. Run the Jupyter Notebook 
-   ```bash
+   
